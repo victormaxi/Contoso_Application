@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\bin\Debug\net6.0\Web app.Data.deps.json
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\bin\Debug\net6.0\Web app.Data.runtimeconfig.json
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\bin\Debug\net6.0\Web app.Data.dll
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\bin\Debug\net6.0\Web app.Data.pdb
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\bin\Debug\net6.0\Web app.Core.dll
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\bin\Debug\net6.0\Web app.Core.pdb
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.AssemblyInfo.cs
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.csproj.CopyComplete
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.dll
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\refint\Web app.Data.dll
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.pdb
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\Web app.Data.genruntimeconfig.cache
+C:\Users\Lenovo\source\Reliance\Contoso University Web app\Web app.Data\obj\Debug\net6.0\ref\Web app.Data.dll
